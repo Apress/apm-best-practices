@@ -2,7 +2,7 @@
 
 This repository accompanies [*APM Best Practices*](http://www.apress.com/9781430231417) by Michael J. Sydor, Karen Sleeth, Jon  Toigo, Ed Yourdon, Scott E. Donaldson, Stanley G. Siegel, and Gary Donaldson (Apress, 2010).
 
-![Cover image](9781430231417.jpg)
+[comment]: #cover
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
